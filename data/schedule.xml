@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ks_c_5601-1987" ?>
+
+<list>
+
+	<data type = "SUN">
+		<schedule time = "23:59">"[출근 알림] 내일은 활기찬 월요일입니다. 출근 준비 화이팅..ㅠㅠ"</schedule>
+	</data>
+	
+	
+	<data type = "MON">
+		<schedule time = "11:00">"[회의 알림] 프로그램팀 월요일 회의 알림!"</schedule>
+		<schedule time = "13:00">"[중요] 점심시간입니다. 카드 챙기세요...."</schedule>
+		<schedule time = "17:00">"[업무 보고서] 마감 1시간 전 입니다."</schedule>
+		<schedule time = "17:50">"[업무 보고서] 마감 10분 전 입니다."</schedule>
+		<schedule time = "17:55">"[업무 보고서] 마감 5분 전 입니다."</schedule>
+		<schedule time = "18:01">"[업무 보고서] 마감 되었습니다. \n혼나도 몰라요..."</schedule>
+	</data>
+	
+	
+	<data type = "TUE">
+		<schedule time = "13:00">"[중요] 점심시간입니다. 카드 챙기세요...."</schedule>
+	</data>
+	
+	
+	<data type = "WED">
+		<schedule time = "11:00">"[회의 알림] 프로그램팀 수요일 회의 알림!"</schedule>
+		<schedule time = "13:00">"[중요] 점심시간입니다. 카드 챙기세요...."</schedule>
+		<schedule time = "17:00">"[업무 보고서] 마감 1시간 전 입니다."</schedule>
+		<schedule time = "17:50">"[업무 보고서] 마감 10분 전 입니다."</schedule>
+		<schedule time = "17:55">"[업무 보고서] 마감 5분 전 입니다."</schedule>
+		<schedule time = "18:01">"[업무 보고서] 마감 되었습니다. \n혼나도 몰라요..."</schedule>
+	</data>
+	
+	
+	<data type = "THU">
+		<schedule time = "13:00">"[중요] 점심시간입니다. 카드 챙기세요...."</schedule>
+	</data>
+	
+	
+	<data type = "FRI">
+		<schedule time = "11:00">"[회의 알림] 프로그램팀 금요일 회의 알림!"</schedule>
+		<schedule time = "13:00">"[중요] 점심시간입니다. 카드 챙기세요...."</schedule>
+		<schedule time = "17:00">"[업무 보고서] 마감 1시간 전 입니다."</schedule>
+		<schedule time = "17:50">"[업무 보고서] 마감 10분 전 입니다."</schedule>
+		<schedule time = "17:55">"[업무 보고서] 마감 5분 전 입니다."</schedule>
+		<schedule time = "18:01">"[업무 보고서] 마감 되었습니다. \n혼나도 몰라요..."</schedule>
+	</data>
+	
+	
+	<data type = "SAT">
+	</data>
+	
+	
+</list>
